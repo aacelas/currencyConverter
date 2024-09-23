@@ -1,3 +1,5 @@
+# prompt: Create a currency converter that allows you to convert between different currencies using an external API, such as the ExchangeRate-API, that provides current exchange rates. Prompt the user for the amount and the source/destination currencies for the conversion.
+# prompt: Manage the cases where the connection is unsuccessful and when the currency is not valid
 # prompt: use tkinter to make an UI taking the users inputs and showing the results
 import tkinter as tk
 import requests
